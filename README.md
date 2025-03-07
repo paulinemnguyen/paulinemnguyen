@@ -11,8 +11,7 @@ I’m an aspiring data scientist with a background in government auditing, where
 - **Python** | **R** | **SQL**  
 
 ### 📚 Libraries  
-- **Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn**  
-- **NLTK, spaCy, caret**  
+- **Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn**, **NLTK, spaCy, caret**  
 
 ### ⚡ Tools  
 - **Power BI, Tableau**  
